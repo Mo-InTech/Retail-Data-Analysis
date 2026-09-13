@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Un-comment the lines below if your CSVs are larger than 100MB (GitHub limit)
+# Dataset/*.csv
+# Dataset after Cleaning/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
